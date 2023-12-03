@@ -1,0 +1,9 @@
+{
+    "name": "LongerDays_LC",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/RaspberryProgramming/LongerDays_LC",
+    "description": "A mod for Lethal Company which extends the length of each day.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
