@@ -1,3 +1,6 @@
+# DISCLAIMER
+I am abandoning this repository as I found one that works better. See https://thunderstore.io/c/lethal-company/p/IsCoffeeTho/LethalDays/
+
 # LongerDays_LC
 A mod for Lethal Company which extends the length of each day. You can change the length for each day by updating the config file generated after the first initial run.
 
